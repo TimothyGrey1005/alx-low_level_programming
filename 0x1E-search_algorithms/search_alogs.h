@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-#ifndef _SEARCH_ALGOS_H_
+#ifndef _SEARCH_ALGOS_H_ 
 #define _SEARCH_ALGOS_H_
 
 /* LIBRARIES */
